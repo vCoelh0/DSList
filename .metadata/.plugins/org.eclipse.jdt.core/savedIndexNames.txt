@@ -81,7 +81,6 @@ INDEX VERSION 1.134+C:\Users\vinic\Desktop\Java\DEVSUPERIOR_CURSO\projeto_dslist
 1712152079.index
 1428853926.index
 972590367.index
-830647530.index
 2255989459.index
 1148654060.index
 3651260303.index
